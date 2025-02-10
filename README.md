@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone  
 
-This is my second web project — a **fully responsive Amazon Clone** built using **HTML, CSS, and JavaScript**. 🏪 This project replicates the **homepage** and some core functionalities of Amazon, helping me practice front-end development skills and UI design.  
+This is my second web project — a **fully responsive Amazon Clone** built using **HTML and CSS**. 🏪 This project replicates the **homepage** and some core functionalities of Amazon, helping me practice front-end development skills and UI design.  
 
 ## 📌 Features  
 - 🎨 **Responsive Design** — Works on desktops, tablets, and mobile devices  
